@@ -1,0 +1,501 @@
+ID,Industry,Department,AI_Impact_Score,Impact_Type,Comment
+1,Finance,Sales,2.26,Neutral,Improved data-driven decisions
+2,Healthcare,R&D,3.8,Positive,Improved efficiency
+3,Education,Sales,6.66,Negative,Automated tasks
+4,Finance,Operations,3.78,Positive,Resistance from staff
+5,Manufacturing,IT,8.0,Neutral,Improved efficiency
+6,Finance,Marketing,6.43,Negative,Improved data-driven decisions
+7,Finance,Sales,6.98,Positive,Improved efficiency
+8,Retail,IT,7.48,Negative,Training required
+9,Manufacturing,Operations,7.74,Neutral,Resistance from staff
+10,Manufacturing,Sales,4.06,Positive,Cost savings
+11,Manufacturing,IT,3.51,Neutral,Improved data-driven decisions
+12,Manufacturing,R&D,9.35,Negative,Automated tasks
+13,Education,R&D,9.55,Neutral,Automated tasks
+14,Education,R&D,7.38,Negative,Improved efficiency
+15,Healthcare,IT,6.08,Neutral,Training required
+16,Education,Sales,2.09,Negative,Resistance from staff
+17,Manufacturing,IT,7.01,Negative,Automated tasks
+18,Retail,IT,4.11,Positive,Cost savings
+19,Finance,HR,8.73,Neutral,Training required
+20,Manufacturing,HR,6.06,Negative,Improved data-driven decisions
+21,Healthcare,Operations,9.7,Positive,Training required
+22,Retail,Operations,1.12,Positive,Cost savings
+23,Manufacturing,Marketing,4.49,Negative,Resistance from staff
+24,Manufacturing,Marketing,3.88,Negative,Improved efficiency
+25,Retail,HR,8.2,Positive,Training required
+26,Finance,Operations,1.23,Negative,Improved data-driven decisions
+27,Finance,Sales,1.55,Negative,Improved efficiency
+28,Education,IT,8.53,Negative,Cost savings
+29,Education,HR,1.71,Positive,Improved data-driven decisions
+30,Manufacturing,HR,2.54,Neutral,Cost savings
+31,Retail,Marketing,6.76,Negative,Improved efficiency
+32,Healthcare,HR,6.44,Neutral,Improved efficiency
+33,Manufacturing,Operations,8.47,Positive,Training required
+34,Retail,Operations,2.96,Positive,Improved efficiency
+35,Healthcare,R&D,7.67,Positive,Cost savings
+36,Finance,Sales,2.94,Neutral,Training required
+37,Education,IT,1.97,Positive,Automated tasks
+38,Retail,R&D,1.92,Negative,Improved data-driven decisions
+39,Healthcare,HR,9.55,Negative,Improved data-driven decisions
+40,Manufacturing,R&D,4.71,Negative,Automated tasks
+41,Education,Operations,8.89,Negative,Training required
+42,Retail,HR,1.63,Neutral,Automated tasks
+43,Retail,Sales,3.81,Negative,Automated tasks
+44,Retail,Marketing,3.08,Positive,Improved efficiency
+45,Healthcare,IT,2.44,Neutral,Training required
+46,Education,R&D,2.27,Negative,Training required
+47,Finance,HR,6.72,Neutral,Resistance from staff
+48,Retail,Sales,2.32,Positive,Automated tasks
+49,Manufacturing,Marketing,6.88,Positive,Improved data-driven decisions
+50,Retail,R&D,8.14,Neutral,Automated tasks
+51,Finance,Operations,2.26,Negative,Automated tasks
+52,Retail,Marketing,1.25,Neutral,Training required
+53,Healthcare,R&D,5.56,Negative,Cost savings
+54,Manufacturing,Marketing,9.86,Positive,Automated tasks
+55,Healthcare,Marketing,8.5,Neutral,Automated tasks
+56,Healthcare,R&D,6.53,Neutral,Training required
+57,Retail,IT,6.93,Negative,Cost savings
+58,Retail,R&D,9.3,Neutral,Automated tasks
+59,Healthcare,IT,2.24,Neutral,Training required
+60,Finance,HR,9.89,Neutral,Improved data-driven decisions
+61,Retail,R&D,6.73,Neutral,Improved efficiency
+62,Manufacturing,R&D,8.24,Negative,Automated tasks
+63,Education,Operations,7.9,Positive,Resistance from staff
+64,Manufacturing,Operations,7.13,Negative,Automated tasks
+65,Education,IT,3.75,Neutral,Training required
+66,Finance,HR,2.87,Neutral,Improved efficiency
+67,Manufacturing,Operations,2.61,Neutral,Cost savings
+68,Manufacturing,Operations,3.5,Negative,Improved efficiency
+69,Manufacturing,R&D,6.73,Negative,Improved efficiency
+70,Education,Marketing,5.63,Positive,Improved efficiency
+71,Finance,Operations,2.97,Negative,Improved efficiency
+72,Education,HR,2.38,Positive,Improved efficiency
+73,Healthcare,IT,2.16,Positive,Automated tasks
+74,Education,Sales,8.87,Negative,Automated tasks
+75,Retail,Operations,7.17,Positive,Resistance from staff
+76,Education,IT,6.09,Neutral,Automated tasks
+77,Healthcare,R&D,7.01,Positive,Training required
+78,Finance,Sales,3.88,Negative,Training required
+79,Education,Marketing,7.93,Neutral,Training required
+80,Education,IT,1.91,Negative,Resistance from staff
+81,Manufacturing,Operations,8.74,Positive,Cost savings
+82,Finance,Sales,8.38,Negative,Automated tasks
+83,Manufacturing,Marketing,8.95,Positive,Resistance from staff
+84,Manufacturing,Sales,3.27,Neutral,Automated tasks
+85,Finance,HR,8.72,Neutral,Resistance from staff
+86,Healthcare,Sales,1.23,Positive,Training required
+87,Finance,HR,9.39,Negative,Resistance from staff
+88,Finance,Sales,9.14,Negative,Cost savings
+89,Finance,HR,9.91,Negative,Improved efficiency
+90,Retail,IT,8.29,Neutral,Cost savings
+91,Retail,HR,4.91,Neutral,Automated tasks
+92,Manufacturing,Sales,8.91,Neutral,Improved efficiency
+93,Healthcare,HR,2.9,Positive,Automated tasks
+94,Finance,Marketing,8.31,Neutral,Improved data-driven decisions
+95,Finance,R&D,4.57,Negative,Resistance from staff
+96,Education,Marketing,9.0,Positive,Improved efficiency
+97,Healthcare,HR,2.45,Neutral,Improved data-driven decisions
+98,Manufacturing,Sales,7.18,Negative,Automated tasks
+99,Finance,IT,4.29,Positive,Training required
+100,Finance,IT,1.59,Neutral,Improved data-driven decisions
+101,Education,Sales,5.55,Neutral,Improved data-driven decisions
+102,Finance,IT,1.27,Negative,Improved efficiency
+103,Retail,Marketing,6.14,Negative,Improved data-driven decisions
+104,Manufacturing,HR,1.49,Neutral,Improved efficiency
+105,Manufacturing,Operations,9.21,Positive,Automated tasks
+106,Healthcare,Operations,9.01,Neutral,Improved data-driven decisions
+107,Retail,R&D,9.89,Neutral,Resistance from staff
+108,Healthcare,Sales,2.14,Neutral,Automated tasks
+109,Manufacturing,Operations,4.64,Neutral,Improved data-driven decisions
+110,Finance,IT,8.12,Neutral,Cost savings
+111,Healthcare,HR,5.14,Positive,Resistance from staff
+112,Finance,IT,3.72,Positive,Cost savings
+113,Retail,R&D,2.76,Negative,Training required
+114,Finance,R&D,3.28,Positive,Improved efficiency
+115,Retail,Marketing,4.76,Positive,Automated tasks
+116,Healthcare,HR,7.15,Negative,Training required
+117,Healthcare,Sales,2.45,Positive,Training required
+118,Finance,R&D,3.12,Positive,Resistance from staff
+119,Manufacturing,IT,3.31,Neutral,Improved data-driven decisions
+120,Finance,Operations,9.0,Negative,Resistance from staff
+121,Healthcare,Operations,3.14,Positive,Improved efficiency
+122,Healthcare,Operations,6.91,Positive,Cost savings
+123,Manufacturing,IT,6.06,Negative,Improved efficiency
+124,Retail,R&D,7.99,Positive,Improved data-driven decisions
+125,Retail,Operations,6.15,Positive,Automated tasks
+126,Education,HR,4.96,Negative,Training required
+127,Healthcare,Marketing,2.56,Neutral,Training required
+128,Manufacturing,R&D,8.41,Neutral,Cost savings
+129,Finance,R&D,4.3,Neutral,Improved data-driven decisions
+130,Healthcare,Marketing,9.37,Neutral,Cost savings
+131,Education,Operations,1.19,Positive,Training required
+132,Manufacturing,IT,5.28,Negative,Automated tasks
+133,Manufacturing,HR,7.87,Positive,Training required
+134,Healthcare,IT,6.68,Positive,Cost savings
+135,Finance,Sales,5.66,Negative,Cost savings
+136,Manufacturing,Operations,6.41,Positive,Cost savings
+137,Manufacturing,R&D,8.88,Neutral,Training required
+138,Finance,Marketing,6.41,Neutral,Training required
+139,Manufacturing,HR,4.06,Positive,Training required
+140,Manufacturing,IT,7.23,Neutral,Automated tasks
+141,Manufacturing,IT,5.08,Negative,Improved efficiency
+142,Finance,IT,5.9,Positive,Training required
+143,Healthcare,Operations,5.31,Negative,Training required
+144,Finance,R&D,5.93,Neutral,Improved efficiency
+145,Education,R&D,2.26,Neutral,Improved data-driven decisions
+146,Healthcare,R&D,7.48,Positive,Cost savings
+147,Education,HR,4.18,Neutral,Improved data-driven decisions
+148,Manufacturing,Marketing,4.07,Negative,Resistance from staff
+149,Education,Operations,3.07,Negative,Training required
+150,Finance,HR,7.92,Positive,Resistance from staff
+151,Healthcare,Operations,6.41,Negative,Improved efficiency
+152,Healthcare,Sales,5.68,Neutral,Improved efficiency
+153,Healthcare,Marketing,1.13,Neutral,Cost savings
+154,Healthcare,IT,2.28,Positive,Cost savings
+155,Education,HR,8.67,Negative,Improved data-driven decisions
+156,Education,R&D,8.27,Positive,Training required
+157,Manufacturing,IT,7.99,Negative,Improved efficiency
+158,Retail,Marketing,9.41,Positive,Cost savings
+159,Finance,HR,2.57,Neutral,Automated tasks
+160,Retail,IT,8.55,Neutral,Cost savings
+161,Healthcare,R&D,5.31,Positive,Training required
+162,Retail,HR,4.71,Negative,Training required
+163,Retail,Marketing,9.5,Positive,Automated tasks
+164,Healthcare,HR,9.05,Positive,Training required
+165,Healthcare,R&D,6.97,Neutral,Cost savings
+166,Education,Marketing,2.86,Negative,Improved data-driven decisions
+167,Healthcare,Sales,4.54,Negative,Automated tasks
+168,Retail,Operations,8.12,Negative,Training required
+169,Retail,R&D,2.65,Negative,Resistance from staff
+170,Education,IT,3.22,Negative,Improved data-driven decisions
+171,Education,IT,5.16,Positive,Improved data-driven decisions
+172,Education,R&D,8.51,Positive,Cost savings
+173,Healthcare,Operations,3.93,Neutral,Improved efficiency
+174,Education,Marketing,2.86,Neutral,Automated tasks
+175,Finance,IT,7.54,Negative,Improved efficiency
+176,Education,R&D,9.0,Neutral,Cost savings
+177,Finance,Operations,7.0,Neutral,Resistance from staff
+178,Healthcare,Marketing,2.7,Negative,Training required
+179,Retail,Marketing,9.51,Negative,Improved data-driven decisions
+180,Finance,R&D,8.23,Negative,Automated tasks
+181,Manufacturing,HR,4.27,Negative,Improved data-driven decisions
+182,Education,HR,6.67,Positive,Training required
+183,Finance,R&D,7.51,Negative,Improved efficiency
+184,Finance,Marketing,8.86,Negative,Cost savings
+185,Healthcare,Sales,2.24,Positive,Improved data-driven decisions
+186,Manufacturing,IT,4.7,Negative,Training required
+187,Healthcare,IT,9.21,Neutral,Improved efficiency
+188,Retail,R&D,8.66,Positive,Improved efficiency
+189,Retail,Sales,7.43,Neutral,Training required
+190,Retail,R&D,9.06,Negative,Training required
+191,Retail,Marketing,6.11,Negative,Resistance from staff
+192,Manufacturing,HR,6.21,Positive,Training required
+193,Education,IT,8.23,Negative,Resistance from staff
+194,Retail,R&D,2.35,Neutral,Improved data-driven decisions
+195,Education,Operations,2.59,Negative,Training required
+196,Manufacturing,Operations,6.69,Neutral,Training required
+197,Healthcare,HR,6.86,Positive,Automated tasks
+198,Manufacturing,HR,8.23,Negative,Automated tasks
+199,Finance,Operations,3.67,Neutral,Training required
+200,Finance,Marketing,8.77,Positive,Improved data-driven decisions
+201,Finance,IT,5.33,Neutral,Improved efficiency
+202,Healthcare,R&D,4.68,Negative,Improved efficiency
+203,Retail,Sales,2.48,Negative,Improved data-driven decisions
+204,Retail,Marketing,7.45,Positive,Training required
+205,Retail,Marketing,1.51,Positive,Cost savings
+206,Healthcare,HR,9.47,Negative,Improved efficiency
+207,Retail,R&D,5.37,Neutral,Automated tasks
+208,Education,IT,4.36,Negative,Improved efficiency
+209,Finance,Marketing,3.9,Positive,Cost savings
+210,Healthcare,Sales,9.36,Neutral,Automated tasks
+211,Education,Sales,8.45,Negative,Training required
+212,Healthcare,HR,5.32,Positive,Cost savings
+213,Healthcare,R&D,2.1,Negative,Cost savings
+214,Finance,Sales,2.57,Neutral,Automated tasks
+215,Healthcare,Marketing,8.51,Neutral,Resistance from staff
+216,Retail,IT,7.68,Positive,Improved data-driven decisions
+217,Finance,Sales,6.7,Negative,Cost savings
+218,Retail,R&D,8.94,Positive,Resistance from staff
+219,Retail,IT,7.71,Positive,Improved efficiency
+220,Finance,Sales,5.54,Negative,Resistance from staff
+221,Healthcare,Marketing,1.1,Neutral,Automated tasks
+222,Manufacturing,Marketing,7.14,Negative,Improved efficiency
+223,Manufacturing,R&D,1.71,Neutral,Improved data-driven decisions
+224,Education,Sales,3.69,Negative,Resistance from staff
+225,Healthcare,R&D,4.93,Neutral,Training required
+226,Healthcare,IT,3.32,Negative,Training required
+227,Retail,Marketing,3.03,Positive,Automated tasks
+228,Healthcare,HR,2.82,Negative,Cost savings
+229,Healthcare,Sales,8.83,Negative,Improved data-driven decisions
+230,Finance,HR,5.02,Positive,Automated tasks
+231,Education,Marketing,6.64,Negative,Improved data-driven decisions
+232,Education,Marketing,3.97,Positive,Improved data-driven decisions
+233,Retail,HR,1.34,Neutral,Cost savings
+234,Retail,HR,3.58,Negative,Automated tasks
+235,Healthcare,Marketing,8.9,Positive,Improved efficiency
+236,Finance,Sales,3.3,Negative,Improved data-driven decisions
+237,Retail,IT,6.51,Negative,Improved data-driven decisions
+238,Education,Marketing,5.7,Neutral,Cost savings
+239,Education,HR,6.11,Neutral,Training required
+240,Healthcare,Operations,5.66,Negative,Improved data-driven decisions
+241,Healthcare,HR,9.33,Positive,Improved data-driven decisions
+242,Education,R&D,8.69,Neutral,Automated tasks
+243,Education,Marketing,2.13,Positive,Training required
+244,Manufacturing,Sales,7.96,Negative,Automated tasks
+245,Healthcare,R&D,5.69,Positive,Improved efficiency
+246,Education,Sales,2.04,Negative,Automated tasks
+247,Education,Marketing,6.86,Negative,Automated tasks
+248,Healthcare,IT,9.3,Negative,Improved data-driven decisions
+249,Healthcare,Operations,9.23,Neutral,Improved efficiency
+250,Retail,R&D,6.78,Negative,Cost savings
+251,Healthcare,Sales,7.89,Negative,Resistance from staff
+252,Manufacturing,R&D,1.38,Neutral,Automated tasks
+253,Retail,R&D,6.17,Negative,Automated tasks
+254,Manufacturing,Operations,1.37,Negative,Cost savings
+255,Manufacturing,Operations,1.66,Negative,Resistance from staff
+256,Manufacturing,HR,9.28,Negative,Training required
+257,Finance,Marketing,2.07,Neutral,Resistance from staff
+258,Education,Marketing,9.01,Negative,Cost savings
+259,Manufacturing,Operations,1.41,Positive,Improved efficiency
+260,Healthcare,Operations,9.47,Neutral,Resistance from staff
+261,Healthcare,IT,9.7,Neutral,Improved efficiency
+262,Education,Marketing,8.8,Positive,Automated tasks
+263,Healthcare,Sales,9.3,Neutral,Resistance from staff
+264,Healthcare,HR,1.89,Negative,Improved efficiency
+265,Finance,IT,4.43,Positive,Resistance from staff
+266,Manufacturing,Marketing,5.28,Negative,Automated tasks
+267,Healthcare,R&D,5.98,Negative,Cost savings
+268,Retail,Sales,3.97,Positive,Training required
+269,Manufacturing,Operations,3.01,Neutral,Automated tasks
+270,Education,Operations,7.8,Positive,Improved data-driven decisions
+271,Finance,R&D,6.79,Positive,Training required
+272,Healthcare,R&D,5.63,Neutral,Cost savings
+273,Education,Marketing,3.36,Positive,Automated tasks
+274,Manufacturing,R&D,7.99,Negative,Improved data-driven decisions
+275,Manufacturing,Marketing,2.83,Neutral,Automated tasks
+276,Manufacturing,R&D,9.79,Neutral,Resistance from staff
+277,Manufacturing,HR,7.37,Positive,Automated tasks
+278,Education,IT,7.99,Positive,Automated tasks
+279,Finance,HR,8.15,Neutral,Cost savings
+280,Retail,Sales,5.44,Negative,Improved data-driven decisions
+281,Healthcare,Marketing,9.73,Positive,Cost savings
+282,Healthcare,Marketing,5.87,Neutral,Cost savings
+283,Retail,Operations,9.73,Positive,Resistance from staff
+284,Finance,Sales,1.75,Neutral,Improved data-driven decisions
+285,Education,HR,1.47,Neutral,Improved data-driven decisions
+286,Retail,IT,4.48,Positive,Improved data-driven decisions
+287,Education,HR,5.27,Negative,Improved data-driven decisions
+288,Healthcare,Sales,9.88,Positive,Improved efficiency
+289,Manufacturing,R&D,8.65,Neutral,Cost savings
+290,Education,R&D,3.45,Negative,Improved data-driven decisions
+291,Retail,Operations,8.22,Positive,Automated tasks
+292,Finance,HR,3.2,Positive,Automated tasks
+293,Healthcare,IT,1.65,Positive,Automated tasks
+294,Healthcare,IT,6.75,Negative,Improved data-driven decisions
+295,Retail,Operations,7.48,Neutral,Improved data-driven decisions
+296,Retail,R&D,6.0,Neutral,Training required
+297,Healthcare,Marketing,6.54,Positive,Training required
+298,Manufacturing,IT,1.75,Neutral,Automated tasks
+299,Finance,Marketing,3.52,Neutral,Cost savings
+300,Finance,R&D,7.44,Negative,Training required
+301,Healthcare,R&D,5.06,Neutral,Improved efficiency
+302,Manufacturing,Operations,6.83,Positive,Cost savings
+303,Finance,IT,8.3,Negative,Training required
+304,Education,Operations,8.93,Neutral,Automated tasks
+305,Healthcare,Sales,4.3,Negative,Training required
+306,Retail,IT,7.15,Negative,Improved data-driven decisions
+307,Education,IT,7.33,Neutral,Resistance from staff
+308,Education,HR,6.27,Neutral,Improved data-driven decisions
+309,Finance,IT,9.42,Positive,Resistance from staff
+310,Finance,HR,7.42,Neutral,Cost savings
+311,Retail,HR,3.44,Neutral,Improved data-driven decisions
+312,Finance,HR,5.72,Neutral,Automated tasks
+313,Education,R&D,6.07,Neutral,Training required
+314,Healthcare,R&D,1.96,Positive,Cost savings
+315,Healthcare,Marketing,5.13,Positive,Improved data-driven decisions
+316,Education,IT,3.13,Negative,Cost savings
+317,Manufacturing,Operations,4.94,Negative,Training required
+318,Education,R&D,7.36,Negative,Training required
+319,Education,IT,6.37,Neutral,Cost savings
+320,Healthcare,Operations,9.08,Neutral,Cost savings
+321,Manufacturing,IT,5.41,Neutral,Automated tasks
+322,Manufacturing,R&D,8.88,Negative,Improved efficiency
+323,Retail,IT,7.19,Negative,Improved data-driven decisions
+324,Retail,Sales,5.52,Neutral,Training required
+325,Healthcare,IT,8.9,Negative,Improved efficiency
+326,Finance,IT,9.53,Neutral,Cost savings
+327,Retail,Sales,7.32,Neutral,Improved efficiency
+328,Manufacturing,Marketing,1.34,Neutral,Cost savings
+329,Retail,Marketing,7.31,Positive,Improved efficiency
+330,Retail,IT,8.11,Negative,Resistance from staff
+331,Manufacturing,Sales,5.12,Negative,Improved efficiency
+332,Retail,Operations,4.58,Neutral,Cost savings
+333,Education,IT,2.39,Positive,Cost savings
+334,Retail,Sales,3.65,Positive,Automated tasks
+335,Retail,Sales,1.39,Neutral,Improved data-driven decisions
+336,Education,Marketing,6.36,Positive,Automated tasks
+337,Education,HR,2.03,Neutral,Improved data-driven decisions
+338,Finance,IT,7.85,Neutral,Cost savings
+339,Manufacturing,R&D,2.12,Negative,Improved data-driven decisions
+340,Retail,Sales,9.98,Negative,Training required
+341,Education,R&D,2.28,Neutral,Resistance from staff
+342,Healthcare,Marketing,3.17,Neutral,Training required
+343,Education,Sales,2.55,Negative,Improved efficiency
+344,Healthcare,Marketing,1.88,Negative,Improved data-driven decisions
+345,Manufacturing,HR,8.12,Negative,Training required
+346,Education,Sales,6.4,Neutral,Improved efficiency
+347,Finance,Operations,7.65,Neutral,Resistance from staff
+348,Retail,HR,2.27,Negative,Resistance from staff
+349,Retail,Sales,5.05,Neutral,Improved data-driven decisions
+350,Manufacturing,R&D,9.33,Positive,Improved efficiency
+351,Retail,Operations,7.02,Positive,Automated tasks
+352,Education,IT,9.59,Neutral,Automated tasks
+353,Healthcare,HR,7.51,Negative,Improved efficiency
+354,Healthcare,IT,4.78,Negative,Training required
+355,Manufacturing,HR,3.97,Neutral,Improved efficiency
+356,Manufacturing,Sales,5.79,Negative,Improved efficiency
+357,Education,Operations,3.9,Positive,Training required
+358,Manufacturing,Sales,9.12,Neutral,Improved efficiency
+359,Retail,Sales,8.96,Neutral,Automated tasks
+360,Education,Operations,8.03,Negative,Training required
+361,Finance,Sales,9.84,Positive,Automated tasks
+362,Education,Operations,5.89,Neutral,Automated tasks
+363,Education,Marketing,6.09,Positive,Training required
+364,Finance,Marketing,3.64,Negative,Resistance from staff
+365,Manufacturing,Sales,4.37,Positive,Cost savings
+366,Finance,IT,1.16,Positive,Resistance from staff
+367,Healthcare,HR,2.11,Neutral,Cost savings
+368,Education,Marketing,7.37,Positive,Training required
+369,Healthcare,IT,5.15,Neutral,Automated tasks
+370,Manufacturing,R&D,9.75,Positive,Improved efficiency
+371,Retail,R&D,6.57,Negative,Automated tasks
+372,Healthcare,IT,5.3,Positive,Resistance from staff
+373,Education,Sales,2.44,Negative,Automated tasks
+374,Manufacturing,Operations,5.08,Positive,Resistance from staff
+375,Finance,Operations,8.83,Neutral,Training required
+376,Healthcare,Sales,2.62,Positive,Cost savings
+377,Retail,IT,7.52,Negative,Automated tasks
+378,Finance,Marketing,5.56,Positive,Resistance from staff
+379,Education,Sales,3.92,Negative,Improved efficiency
+380,Education,R&D,7.65,Negative,Improved efficiency
+381,Retail,R&D,8.86,Positive,Automated tasks
+382,Retail,HR,8.99,Neutral,Training required
+383,Finance,R&D,8.04,Positive,Automated tasks
+384,Retail,IT,7.83,Negative,Improved data-driven decisions
+385,Education,IT,9.91,Neutral,Improved data-driven decisions
+386,Finance,Marketing,5.03,Neutral,Improved data-driven decisions
+387,Finance,HR,4.57,Neutral,Automated tasks
+388,Finance,IT,8.65,Neutral,Cost savings
+389,Finance,HR,3.36,Positive,Improved efficiency
+390,Education,R&D,2.3,Neutral,Cost savings
+391,Healthcare,HR,8.54,Neutral,Resistance from staff
+392,Healthcare,HR,1.57,Neutral,Improved data-driven decisions
+393,Education,Operations,3.21,Negative,Automated tasks
+394,Retail,Operations,9.74,Neutral,Automated tasks
+395,Manufacturing,Operations,3.94,Neutral,Improved efficiency
+396,Manufacturing,Marketing,8.71,Negative,Training required
+397,Finance,Operations,5.69,Neutral,Automated tasks
+398,Manufacturing,R&D,6.67,Positive,Improved efficiency
+399,Manufacturing,IT,7.69,Positive,Resistance from staff
+400,Retail,Marketing,1.54,Negative,Automated tasks
+401,Finance,HR,4.69,Negative,Cost savings
+402,Education,Sales,3.36,Positive,Improved efficiency
+403,Finance,HR,5.54,Neutral,Training required
+404,Healthcare,HR,3.66,Negative,Improved efficiency
+405,Education,Operations,8.51,Negative,Improved data-driven decisions
+406,Education,Marketing,7.74,Neutral,Cost savings
+407,Healthcare,IT,7.82,Positive,Cost savings
+408,Education,R&D,7.51,Neutral,Improved data-driven decisions
+409,Finance,Sales,3.67,Positive,Cost savings
+410,Healthcare,HR,4.15,Negative,Cost savings
+411,Retail,R&D,1.16,Negative,Cost savings
+412,Healthcare,HR,2.84,Negative,Improved efficiency
+413,Retail,Operations,6.9,Positive,Improved data-driven decisions
+414,Retail,HR,4.84,Positive,Improved efficiency
+415,Manufacturing,HR,6.98,Positive,Training required
+416,Education,R&D,3.61,Neutral,Improved efficiency
+417,Manufacturing,Sales,7.38,Negative,Automated tasks
+418,Healthcare,Operations,1.69,Neutral,Resistance from staff
+419,Finance,R&D,5.16,Neutral,Improved data-driven decisions
+420,Retail,R&D,9.41,Positive,Improved efficiency
+421,Finance,R&D,10.0,Negative,Training required
+422,Retail,Marketing,9.95,Neutral,Improved data-driven decisions
+423,Retail,Marketing,7.69,Negative,Cost savings
+424,Finance,Sales,1.88,Positive,Cost savings
+425,Education,Operations,5.86,Neutral,Cost savings
+426,Education,Marketing,9.72,Neutral,Resistance from staff
+427,Manufacturing,Marketing,4.73,Neutral,Improved data-driven decisions
+428,Finance,HR,8.39,Positive,Training required
+429,Healthcare,R&D,9.52,Positive,Cost savings
+430,Healthcare,IT,9.87,Negative,Resistance from staff
+431,Manufacturing,HR,6.52,Neutral,Improved data-driven decisions
+432,Retail,Operations,3.76,Positive,Training required
+433,Retail,IT,6.4,Positive,Automated tasks
+434,Education,IT,6.1,Neutral,Improved efficiency
+435,Education,IT,8.36,Negative,Cost savings
+436,Education,R&D,2.49,Positive,Resistance from staff
+437,Retail,Operations,5.88,Neutral,Cost savings
+438,Manufacturing,R&D,6.33,Positive,Automated tasks
+439,Education,Operations,5.33,Neutral,Automated tasks
+440,Manufacturing,HR,3.48,Positive,Training required
+441,Retail,R&D,9.91,Negative,Training required
+442,Education,R&D,4.11,Negative,Cost savings
+443,Education,Marketing,8.46,Neutral,Automated tasks
+444,Finance,Operations,5.48,Positive,Training required
+445,Healthcare,Operations,5.93,Negative,Improved data-driven decisions
+446,Manufacturing,HR,5.32,Neutral,Improved data-driven decisions
+447,Education,Operations,7.52,Neutral,Automated tasks
+448,Education,IT,9.49,Neutral,Resistance from staff
+449,Finance,Operations,9.51,Positive,Cost savings
+450,Manufacturing,R&D,1.51,Positive,Improved data-driven decisions
+451,Retail,Sales,8.84,Neutral,Resistance from staff
+452,Education,Operations,2.07,Negative,Automated tasks
+453,Finance,Marketing,6.18,Positive,Automated tasks
+454,Healthcare,HR,9.46,Positive,Cost savings
+455,Finance,Marketing,1.51,Neutral,Training required
+456,Healthcare,Operations,1.18,Negative,Improved efficiency
+457,Finance,Operations,7.8,Neutral,Training required
+458,Healthcare,HR,6.82,Neutral,Automated tasks
+459,Finance,R&D,4.24,Positive,Training required
+460,Finance,Operations,1.84,Negative,Resistance from staff
+461,Healthcare,R&D,8.2,Neutral,Resistance from staff
+462,Finance,Operations,4.54,Neutral,Improved efficiency
+463,Education,HR,4.03,Negative,Resistance from staff
+464,Manufacturing,Marketing,5.34,Positive,Cost savings
+465,Healthcare,Operations,7.29,Negative,Automated tasks
+466,Healthcare,Operations,6.33,Neutral,Resistance from staff
+467,Manufacturing,IT,4.58,Neutral,Training required
+468,Retail,Sales,3.58,Neutral,Training required
+469,Manufacturing,HR,8.05,Negative,Training required
+470,Finance,Sales,3.43,Positive,Improved efficiency
+471,Education,Sales,2.51,Neutral,Automated tasks
+472,Manufacturing,Sales,5.86,Positive,Cost savings
+473,Manufacturing,Sales,5.22,Negative,Training required
+474,Manufacturing,HR,8.26,Negative,Resistance from staff
+475,Healthcare,HR,7.98,Negative,Resistance from staff
+476,Healthcare,R&D,9.6,Positive,Improved data-driven decisions
+477,Retail,HR,4.14,Negative,Cost savings
+478,Education,Sales,7.08,Neutral,Improved efficiency
+479,Healthcare,Operations,5.23,Negative,Training required
+480,Finance,Sales,7.65,Positive,Training required
+481,Manufacturing,IT,5.01,Positive,Resistance from staff
+482,Finance,Marketing,1.36,Positive,Improved data-driven decisions
+483,Manufacturing,IT,7.47,Negative,Resistance from staff
+484,Healthcare,Operations,7.5,Positive,Resistance from staff
+485,Healthcare,Sales,5.41,Neutral,Training required
+486,Finance,Sales,3.48,Negative,Cost savings
+487,Finance,Marketing,3.65,Positive,Resistance from staff
+488,Education,Marketing,7.34,Negative,Improved data-driven decisions
+489,Finance,Sales,8.52,Negative,Automated tasks
+490,Education,Operations,6.18,Neutral,Resistance from staff
+491,Healthcare,HR,3.74,Negative,Automated tasks
+492,Healthcare,IT,3.99,Negative,Improved data-driven decisions
+493,Education,HR,7.32,Positive,Improved data-driven decisions
+494,Retail,Marketing,6.83,Positive,Resistance from staff
+495,Healthcare,HR,9.73,Negative,Improved data-driven decisions
+496,Retail,R&D,1.47,Positive,Improved efficiency
+497,Manufacturing,HR,6.61,Positive,Training required
+498,Manufacturing,Marketing,6.89,Negative,Resistance from staff
+499,Finance,IT,9.52,Negative,Automated tasks
+500,Manufacturing,Sales,9.37,Positive,Cost savings
