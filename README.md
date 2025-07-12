@@ -1,0 +1,1 @@
+# Ai_Impact_on_Management_Practiices
